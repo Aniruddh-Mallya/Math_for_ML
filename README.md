@@ -8,11 +8,11 @@ The main topics that are covered here are* **Linear Algebra** *and* **Multi-vari
 **The subtopics covered in Linear Algebra are as follows:**
 
 1. Identifying Special Matrices
-2. Reflecting a Bear
+2. Reflection Matrix (Reflecting a Bear)
 3. PageRank Algorithm
 
 **The subtopics covered in Multi-variate Calculus are as follows:**
 
 1. Back Propagation
 2. Fitting distribution of heights data
-3. Gradient descent in a Sandpit 
+3. Gradient descent (in a Sandpit) 
