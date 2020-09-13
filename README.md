@@ -2,9 +2,16 @@
 
 #### This repository is a part of a coding assignment, which involves fulfiling a given set of criteria
 
-*The math for Machine Learning comprises of a set of key concepts and algorithms, a few of them have been executed by making use of Python Programming.*
+*The math for Machine Learning comprises of a set of key concepts and algorithms, a few of them have been executed by making use of Python Programming.
+The main topics that are covered are **Linear Algebra** and **Multi-variate Calculus** *
 
-**The topics covered are as follows:**
+**The subtopics covered in Linear Algebra are as follows:**
+
+1. Identifying Special Matrices
+2. Reflecting a Bear
+3. PageRank Algorithm
+
+**The subtopics covered in Multi-variate Calculus are as follows:**
 
 1. Identifying Special Matrices
 2. Reflecting a Bear
