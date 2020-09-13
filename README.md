@@ -1,6 +1,6 @@
 # Math_for_ML
 
-#### This repository is a part of a coding assignment, which involves fulfilling a given criteria to obtain the desired results.
+#### This repository is a part of a coding assignment, which involves fulfiling a given set of criteria
 
 *The math for Machine Learning comprises of a set of key concepts and algorithms, a few of them have been executed by making use of Python Programming.*
 
