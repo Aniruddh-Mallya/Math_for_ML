@@ -15,4 +15,4 @@ The main topics that are covered are **Linear Algebra** and **Multi-variate Calc
 
 1. Back Propagation
 2. Fitting distribution of heights data
-3. PageRank Algorithm
+3. Gradient descent in a Sandpit 
