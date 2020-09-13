@@ -13,6 +13,6 @@ The main topics that are covered are **Linear Algebra** and **Multi-variate Calc
 
 **The subtopics covered in Multi-variate Calculus are as follows:**
 
-1. Identifying Special Matrices
-2. Reflecting a Bear
+1. Back Propagation
+2. Fitting distribution of heights data
 3. PageRank Algorithm
